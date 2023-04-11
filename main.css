@@ -1,0 +1,14 @@
+.navbar {
+    background-color: grey;
+}
+
+.nav .nav-link.active {
+    background-color: #fff;
+    color: #000;
+}
+
+.nav .nav-link, 
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
