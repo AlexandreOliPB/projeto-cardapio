@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-    background-color: grey;
+    background-color: rgb(121, 182, 162);
 }
 
 #cabecalho .nav .nav-link.active {
@@ -31,14 +31,17 @@ body {
 }
 
 .text-colored {
-    color: gray;
+    color:rgb(121, 182, 162);
+;
 }
 
 .nav-cardapio .nav-link.active {
-    background-color: grey;
+    background-color: rgb(121, 182, 162);
+;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: grey;
+    color: rgb(121, 182, 162);
+;
 }
